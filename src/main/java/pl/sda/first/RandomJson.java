@@ -21,5 +21,5 @@ public class RandomJson extends HttpServlet {
         writer.println(random.nextInt());
     }
 
-    
+
 }
