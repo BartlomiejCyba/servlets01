@@ -20,4 +20,6 @@ public class RandomJson extends HttpServlet {
         Random random = new Random();
         writer.println(random.nextInt());
     }
+
+    
 }
