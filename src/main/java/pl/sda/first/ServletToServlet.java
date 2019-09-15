@@ -20,6 +20,4 @@ public class ServletToServlet extends HttpServlet {
         Random random = new Random();
         writer.println(random.nextInt());
     }
-
-
 }
